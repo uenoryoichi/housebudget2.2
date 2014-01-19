@@ -4,17 +4,17 @@
         <div class="col-md-offset-3 col-md-6">
             <br><h2>収入情報入力フォーム</h2>
             <?php  
-            echo $this->Form->create('Income',array('action'=>'add','class'=>'form-inline well'));
+            echo $this->Form->create('Pay',array('action'=>'add','class'=>'form-inline well'));
             echo $this->Form->input('title',array('label'=>'名称'));
             echo $this->Form->input('amount',array('label'=>'金額'));
             echo $this->Form->input('date',array('class'=>'form-control-dateTime','label'=>'日時'));
             echo $this->Form->input('memo',array('label'=>'メモ'));
             echo $this->Form->input('user_account_id',array('label'=>'口座名','options' => $user_account_option));
-            echo $this->Form->input('income_specification_id',array('label'=>'分類','options' => $income_specification_option));
+            echo $this->Form->input('pay_specification_id',array('label'=>'分類','options' => $pay_specification_option));
             echo $this->Form->hidden('user_id',array('value'=> AuthComponent::user('id')));
             ?>
             <div class='center'>
-            <?php echo $this->Form->end('Save Income'); ?>
+            <?php echo $this->Form->end('Save Pay'); ?>
             </div>  
         </div>
     </div>
@@ -38,28 +38,28 @@
                             <th scope="col"></th>
                         </tr>   
                     </thead>
-                    <?php foreach ($incomes as $income):?>
+                    <?php foreach ($pays as $pay):?>
 
                     <tbody>
                         <tr>
-                            <td><?php echo h($income['Income']['title']);?></td>
-                            <td><?php echo h($income['Income']['date']);?></td>
-                            <td><?php echo h($income['Income']['amount']);?></td>
-                            <td><?php echo h($income['IncomeSpecification']['name']);?></td> 
-                            <td><?php echo h($income['UserAccount']['Account']['name']);?></td>
-                            <td><?php echo h($income['Income']['memo']);?></td>
+                            <td><?php echo h($pay['Pay']['title']);?></td>
+                            <td><?php echo h($pay['Pay']['date']);?></td>
+                            <td><?php echo h($pay['Pay']['amount']);?></td>
+                            <td><?php echo h($pay['PaySpecification']['name']);?></td> 
+                            <td><?php echo h($pay['UserAccount']['Account']['name']);?></td>
+                            <td><?php echo h($pay['Pay']['memo']);?></td>
                             <td class="center">
                             <?php  
-                                echo $this->Form->create('Income',array('action'=>'edit'));
-                                echo $this->Form->hidden('id',array('value'=>$income['Income']['id']));
+                                echo $this->Form->create('Pay',array('action'=>'edit'));
+                                echo $this->Form->hidden('id',array('value'=>$pay['Pay']['id']));
                                 echo $this->Form->submit('編集',array('class'=>'btn btn-success btn-xs'));
                                 echo $this->Form->end();
                             ?>
                             </td>
                             <td class="center">   
                             <?php 
-                                echo $this->Form->create('Income',array('action'=>'delete'));
-                                echo $this->Form->hidden('id',array('value'=>$income['Income']['id']));
+                                echo $this->Form->create('Pay',array('action'=>'delete'));
+                                echo $this->Form->hidden('id',array('value'=>$pay['Pay']['id']));
                                 echo $this->Form->submit('削除',array('class'=>'btn btn-danger btn-xs'),array('confirm'=>'削除してよろしいでしょうか？'));
                                 echo $this->Form->end();
                             ?>

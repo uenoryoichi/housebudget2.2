@@ -32202,3 +32202,1903 @@ Request URL: /housebudget2_sagyo/js/google_analytics.js
 Stack Trace:
 #0 /Applications/MAMP/htdocs/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
+2014-01-18 19:50:55 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/js/bootstrap.min.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-18 19:50:55 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/js/google_analytics.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-18 19:50:55 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_ttl.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-18 19:50:55 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_main.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-18 19:50:55 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_head.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-18 19:50:58 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/js/bootstrap.min.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-18 19:50:58 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/js/google_analytics.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-18 19:50:58 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_main.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-18 19:50:58 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_head.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-18 19:50:58 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_ttl.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-18 19:51:01 Error: [MissingActionException] Action UsersController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'js',
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/Users/js/google_analytics.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-01-18 19:51:01 Error: [MissingActionException] Action UsersController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'js',
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/Users/js/bootstrap.min.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-01-18 19:51:02 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_head.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-18 19:51:02 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_ttl.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-18 19:51:02 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_main.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-18 19:51:05 Error: [MissingActionException] Action UsersController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'js',
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/users/js/google_analytics.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-01-18 19:51:05 Error: [MissingActionException] Action UsersController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'js',
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/users/js/bootstrap.min.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-01-18 19:51:05 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_ttl.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-18 19:51:05 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_main.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-18 19:51:05 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_head.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-18 19:51:08 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/js/bootstrap.min.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-18 19:51:08 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/js/google_analytics.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-18 19:51:09 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_ttl.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-18 19:51:09 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_head.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-18 19:51:09 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_main.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-18 19:52:23 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/js/bootstrap.min.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-18 19:52:23 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/js/google_analytics.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-18 19:52:23 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_head.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-18 19:52:23 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_main.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-18 19:52:23 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_ttl.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-18 19:52:26 Error: [MissingActionException] Action IncomesController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'IncomesController',
+  'action' => 'js',
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/incomes/js/bootstrap.min.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(IncomesController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-01-18 19:52:27 Error: [MissingActionException] Action IncomesController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'IncomesController',
+  'action' => 'js',
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/incomes/js/google_analytics.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(IncomesController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-01-18 19:52:27 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_ttl.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-18 19:52:27 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_head.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-18 19:52:27 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_main.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-18 19:52:33 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/js/bootstrap.min.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-18 19:52:33 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/js/google_analytics.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-18 19:52:33 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_ttl.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-18 19:52:33 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_head.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-18 19:52:33 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_main.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 17:14:00 Error: [MissingActionException] Action UsersController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'js',
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/Users/js/google_analytics.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-01-19 17:14:00 Error: [MissingActionException] Action UsersController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'js',
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/Users/js/bootstrap.min.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-01-19 17:14:00 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_main.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 17:14:00 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_ttl.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 17:14:00 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_head.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 17:14:10 Error: [MissingActionException] Action UsersController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'js',
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/Users/js/google_analytics.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-01-19 17:14:10 Error: [MissingActionException] Action UsersController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'js',
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/Users/js/bootstrap.min.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-01-19 17:14:10 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_main.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 17:14:10 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_head.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 17:14:10 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_ttl.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 18:39:15 Error: [MissingActionException] Action UsersController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'js',
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/Users/js/bootstrap.min.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-01-19 18:39:16 Error: [MissingActionException] Action UsersController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'js',
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/Users/js/google_analytics.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-01-19 18:39:17 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_head.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 18:39:17 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_main.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 18:39:17 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_ttl.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 18:39:28 Error: [MissingActionException] Action UsersController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'js',
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/Users/js/bootstrap.min.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-01-19 18:39:29 Error: [MissingActionException] Action UsersController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'js',
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/Users/js/google_analytics.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-01-19 18:39:30 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_ttl.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 18:39:30 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_head.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 18:39:30 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_main.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 21:47:29 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/js/google_analytics.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 21:47:29 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/js/bootstrap.min.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 21:47:32 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/js/bootstrap.min.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 21:47:32 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/js/google_analytics.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 21:48:05 Error: [MissingActionException] Action IncomesController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'IncomesController',
+  'action' => 'js',
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/incomes/js/bootstrap.min.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(IncomesController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-01-19 21:48:05 Error: [MissingActionException] Action IncomesController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'IncomesController',
+  'action' => 'js',
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/incomes/js/google_analytics.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(IncomesController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-01-19 21:48:19 Error: [MissingActionException] Action IncomesController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'IncomesController',
+  'action' => 'js',
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/incomes/js/google_analytics.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(IncomesController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-01-19 21:48:19 Error: [MissingActionException] Action IncomesController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'IncomesController',
+  'action' => 'js',
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/incomes/js/bootstrap.min.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(IncomesController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-01-19 21:52:49 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/js/bootstrap.min.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 21:52:49 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/js/google_analytics.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 21:52:50 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_head.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 21:52:50 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_ttl.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 21:52:50 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_main.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 21:52:54 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/js/google_analytics.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 21:52:54 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/js/bootstrap.min.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 21:53:02 Error: [MissingActionException] Action IncomesController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'IncomesController',
+  'action' => 'js',
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/incomes/js/google_analytics.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(IncomesController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-01-19 21:53:03 Error: [MissingActionException] Action IncomesController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'IncomesController',
+  'action' => 'js',
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/incomes/js/bootstrap.min.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(IncomesController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-01-19 21:55:10 Error: [MissingActionException] Action IncomesController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'IncomesController',
+  'action' => 'js',
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/incomes/js/google_analytics.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(IncomesController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-01-19 21:55:10 Error: [MissingActionException] Action IncomesController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'IncomesController',
+  'action' => 'js',
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/incomes/js/bootstrap.min.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(IncomesController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-01-19 21:55:11 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_ttl.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 21:55:11 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_head.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 21:55:11 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_main.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 21:59:34 Error: Fatal Error (4): syntax error, unexpected ',', expecting ')' in [/Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/Model/Income.php, line 11]
+2014-01-19 21:59:34 Error: [FatalErrorException] syntax error, unexpected ',', expecting ')'
+Request URL: /housebudget2.2/housebudget2_sagyo/incomes/index
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 11)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 11, Array)
+#2 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 11, Array)
+#3 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-01-19 21:59:35 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_main.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 21:59:35 Error: [MissingActionException] Action IncomesController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'IncomesController',
+  'action' => 'js',
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/incomes/js/google_analytics.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(IncomesController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-01-19 21:59:35 Error: [MissingActionException] Action IncomesController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'IncomesController',
+  'action' => 'js',
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/incomes/js/bootstrap.min.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(IncomesController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-01-19 21:59:35 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_ttl.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 21:59:35 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_head.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 21:59:55 Error: [MissingActionException] Action IncomesController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'IncomesController',
+  'action' => 'js',
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/incomes/js/bootstrap.min.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(IncomesController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-01-19 21:59:56 Error: [MissingActionException] Action IncomesController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'IncomesController',
+  'action' => 'js',
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/incomes/js/google_analytics.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(IncomesController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-01-19 21:59:56 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_main.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 21:59:56 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_ttl.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 21:59:56 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_head.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 22:00:21 Error: [MissingActionException] Action IncomesController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'IncomesController',
+  'action' => 'js',
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/incomes/js/google_analytics.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(IncomesController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-01-19 22:00:21 Error: [MissingActionException] Action IncomesController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'IncomesController',
+  'action' => 'js',
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/incomes/js/bootstrap.min.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(IncomesController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-01-19 22:00:21 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_head.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 22:00:21 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_main.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 22:00:21 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_ttl.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 22:04:00 Error: [MissingActionException] Action IncomesController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'IncomesController',
+  'action' => 'js',
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/incomes/js/google_analytics.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(IncomesController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-01-19 22:04:00 Error: [MissingActionException] Action IncomesController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'IncomesController',
+  'action' => 'js',
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/incomes/js/bootstrap.min.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(IncomesController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-01-19 22:04:01 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_ttl.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 22:04:01 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_head.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 22:04:01 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_main.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 22:11:35 Error: Fatal Error (4): syntax error, unexpected '255' (T_LNUMBER), expecting ')' in [/Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/Model/Pay.php, line 25]
+2014-01-19 22:11:35 Error: [FatalErrorException] syntax error, unexpected '255' (T_LNUMBER), expecting ')'
+Request URL: /housebudget2.2/housebudget2_sagyo/Users
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 25)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 25, Array)
+#2 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 25, Array)
+#3 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-01-19 22:11:36 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/js/google_analytics.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 22:11:36 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/js/bootstrap.min.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 22:11:36 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_main.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 22:11:36 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_head.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 22:11:36 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_ttl.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 22:12:47 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/js/google_analytics.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 22:12:47 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/js/bootstrap.min.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 22:12:48 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_ttl.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 22:12:48 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_head.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 22:12:48 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_main.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 22:14:02 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/js/bootstrap.min.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 22:14:02 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/js/google_analytics.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 22:17:20 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/js/google_analytics.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 22:17:20 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/js/bootstrap.min.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 22:32:42 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/js/google_analytics.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 22:32:42 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/js/bootstrap.min.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 22:32:42 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_main.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 22:32:42 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_head.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 22:32:42 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_ttl.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 22:32:44 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/js/google_analytics.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 22:32:44 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/js/bootstrap.min.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 22:32:47 Error: [MissingControllerException] Controller class PayIndex.phpController could not be found.
+Exception Attributes: array (
+  'class' => 'PayIndex.phpController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/pay_index.php
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 22:32:47 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/js/google_analytics.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 22:32:47 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/js/bootstrap.min.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 22:32:55 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/js/bootstrap.min.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 22:32:55 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/js/google_analytics.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 22:35:05 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/js/google_analytics.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 22:35:05 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/js/bootstrap.min.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 22:35:14 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/js/google_analytics.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 22:35:14 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/js/bootstrap.min.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 22:45:30 Error: [MissingControllerException] Controller class PayIndex.phpController could not be found.
+Exception Attributes: array (
+  'class' => 'PayIndex.phpController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/pay_index.php
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 22:45:30 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/js/bootstrap.min.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 22:45:30 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/js/google_analytics.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 22:45:34 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'user_id' in where clause is ambiguous
+Request URL: /housebudget2.2/housebudget2_sagyo/Pays
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('SELECT `UserAcc...', Array)
+#2 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Model/Datasource/DboSource.php(666): DboSource->execute('SELECT `UserAcc...', Array, Array)
+#3 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Model/Datasource/DboSource.php(1077): DboSource->fetchAll('SELECT `UserAcc...', false)
+#4 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Model/Model.php(2700): DboSource->read(Object(UserAccount), Array)
+#5 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/Model/UserAccount.php(14): Model->find('all', Array)
+#6 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/Controller/PaysController.php(46): UserAccount->select_option('user_account_op...')
+#7 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/Controller/PaysController.php(60): PaysController->__optionSet()
+#8 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/Controller/PaysController.php(13): PaysController->__setData()
+#9 [internal function]: PaysController->index()
+#10 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PaysController), Array)
+#11 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#12 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(PaysController), Object(CakeRequest), Object(CakeResponse))
+#13 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2014-01-19 22:45:34 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/js/google_analytics.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 22:45:34 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/js/bootstrap.min.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 22:53:13 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'user_id' in where clause is ambiguous
+Request URL: /housebudget2.2/housebudget2_sagyo/Pays
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('SELECT `UserAcc...', Array)
+#2 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Model/Datasource/DboSource.php(666): DboSource->execute('SELECT `UserAcc...', Array, Array)
+#3 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Model/Datasource/DboSource.php(1077): DboSource->fetchAll('SELECT `UserAcc...', false)
+#4 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Model/Model.php(2700): DboSource->read(Object(UserAccount), Array)
+#5 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/Model/UserAccount.php(14): Model->find('all', Array)
+#6 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/Controller/PaysController.php(46): UserAccount->select_option('user_account_op...')
+#7 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/Controller/PaysController.php(60): PaysController->__optionSet()
+#8 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/Controller/PaysController.php(13): PaysController->__setData()
+#9 [internal function]: PaysController->index()
+#10 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PaysController), Array)
+#11 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#12 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(PaysController), Object(CakeRequest), Object(CakeResponse))
+#13 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2014-01-19 22:53:13 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/js/google_analytics.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 22:53:13 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/js/bootstrap.min.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 22:53:13 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_ttl.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 22:53:13 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_main.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 22:53:13 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_head.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 22:53:15 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'user_id' in where clause is ambiguous
+Request URL: /housebudget2.2/housebudget2_sagyo/Incomes
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('SELECT `UserAcc...', Array)
+#2 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Model/Datasource/DboSource.php(666): DboSource->execute('SELECT `UserAcc...', Array, Array)
+#3 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Model/Datasource/DboSource.php(1077): DboSource->fetchAll('SELECT `UserAcc...', false)
+#4 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Model/Model.php(2700): DboSource->read(Object(UserAccount), Array)
+#5 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/Model/UserAccount.php(14): Model->find('all', Array)
+#6 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/Controller/IncomesController.php(46): UserAccount->select_option('user_account_op...')
+#7 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/Controller/IncomesController.php(60): IncomesController->__optionSet()
+#8 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/Controller/IncomesController.php(13): IncomesController->__setData()
+#9 [internal function]: IncomesController->index()
+#10 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(IncomesController), Array)
+#11 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#12 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(IncomesController), Object(CakeRequest), Object(CakeResponse))
+#13 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2014-01-19 22:53:15 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/js/google_analytics.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 22:53:15 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/js/bootstrap.min.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 22:55:23 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/js/google_analytics.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 22:55:23 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/js/bootstrap.min.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 23:17:12 Error: Fatal Error (4): syntax error, unexpected ''amount'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in [/Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/Model/Income.php, line 18]
+2014-01-19 23:17:12 Error: [FatalErrorException] syntax error, unexpected ''amount'' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+Request URL: /housebudget2.2/housebudget2_sagyo/Incomes
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 18)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 18, Array)
+#2 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 18, Array)
+#3 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-01-19 23:17:13 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/js/google_analytics.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 23:17:13 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/js/bootstrap.min.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 23:17:13 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_main.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 23:17:13 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_ttl.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 23:17:13 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_head.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 23:18:04 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/js/bootstrap.min.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 23:18:04 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/js/google_analytics.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 23:18:04 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_ttl.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 23:18:04 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_main.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 23:18:04 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_head.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-19 23:18:16 Error: [MissingActionException] Action IncomesController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'IncomesController',
+  'action' => 'js',
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/incomes/js/bootstrap.min.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(IncomesController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-01-19 23:18:16 Error: [MissingActionException] Action IncomesController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'IncomesController',
+  'action' => 'js',
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/incomes/js/google_analytics.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(IncomesController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-01-20 00:06:31 Error: [MissingActionException] Action IncomesController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'IncomesController',
+  'action' => 'js',
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/incomes/js/bootstrap.min.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(IncomesController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-01-20 00:06:31 Error: [MissingActionException] Action IncomesController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'IncomesController',
+  'action' => 'js',
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/incomes/js/google_analytics.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(IncomesController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-01-20 00:06:31 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_head.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-20 00:06:31 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_ttl.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-20 00:06:31 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_main.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-20 00:06:34 Error: Fatal Error (64): Cannot redeclare class Pay in [/Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/Model/Transfer.php, line 59]
+2014-01-20 00:06:34 Error: [FatalErrorException] Cannot redeclare class Pay
+Request URL: /housebudget2.2/housebudget2_sagyo/Transfers
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', '/Applications/M...', 59)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', '/Applications/M...', 59, Array)
+#2 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', '/Applications/M...', 59, Array)
+#3 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-01-20 00:06:34 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/js/google_analytics.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-20 00:06:34 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_main.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-20 00:06:34 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/js/bootstrap.min.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-20 00:06:34 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_head.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-20 00:06:34 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_ttl.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-20 00:08:22 Error: Fatal Error (4): syntax error, unexpected ''foreingKey'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in [/Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/Model/Transfer.php, line 8]
+2014-01-20 00:08:22 Error: [FatalErrorException] syntax error, unexpected ''foreingKey'' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+Request URL: /housebudget2.2/housebudget2_sagyo/Transfers
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 8)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 8, Array)
+#2 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 8, Array)
+#3 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-01-20 00:08:23 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/js/google_analytics.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-20 00:08:23 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/js/bootstrap.min.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-20 00:08:54 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Transfer.user_account_remitter_id' in 'on clause'
+Request URL: /housebudget2.2/housebudget2_sagyo/Transfers
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('SELECT `Transfe...', Array)
+#2 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Model/Datasource/DboSource.php(666): DboSource->execute('SELECT `Transfe...', Array, Array)
+#3 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Model/Datasource/DboSource.php(1077): DboSource->fetchAll('SELECT `Transfe...', false)
+#4 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Model/Model.php(2700): DboSource->read(Object(Transfer), Array)
+#5 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/Controller/TransfersController.php(55): Model->find('all', Array)
+#6 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/Controller/TransfersController.php(13): TransfersController->__setData()
+#7 [internal function]: TransfersController->index()
+#8 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(TransfersController), Array)
+#9 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#10 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(TransfersController), Object(CakeRequest), Object(CakeResponse))
+#11 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2014-01-20 00:08:54 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/js/bootstrap.min.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-20 00:08:54 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/js/google_analytics.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-20 00:08:55 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_main.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-20 00:08:55 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_ttl.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-20 00:08:55 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_head.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-20 00:10:44 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Transfer.user_account_id_remitter_id' in 'on clause'
+Request URL: /housebudget2.2/housebudget2_sagyo/Transfers
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('SELECT `Transfe...', Array)
+#2 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Model/Datasource/DboSource.php(666): DboSource->execute('SELECT `Transfe...', Array, Array)
+#3 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Model/Datasource/DboSource.php(1077): DboSource->fetchAll('SELECT `Transfe...', false)
+#4 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Model/Model.php(2700): DboSource->read(Object(Transfer), Array)
+#5 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/Controller/TransfersController.php(55): Model->find('all', Array)
+#6 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/Controller/TransfersController.php(13): TransfersController->__setData()
+#7 [internal function]: TransfersController->index()
+#8 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(TransfersController), Array)
+#9 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#10 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(TransfersController), Object(CakeRequest), Object(CakeResponse))
+#11 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2014-01-20 00:10:44 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/js/bootstrap.min.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-20 00:10:44 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/js/google_analytics.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-20 00:15:42 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/js/bootstrap.min.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-20 00:15:42 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/js/google_analytics.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-20 00:15:43 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_main.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-20 00:15:43 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_head.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-20 00:15:43 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/css/images/bg_ttl.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-20 00:16:02 Error: [MissingActionException] Action TransfersController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'TransfersController',
+  'action' => 'js',
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/transfers/js/bootstrap.min.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(TransfersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-01-20 00:16:02 Error: [MissingActionException] Action TransfersController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'TransfersController',
+  'action' => 'js',
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/transfers/js/google_analytics.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(TransfersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-01-20 00:16:27 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/js/bootstrap.min.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-20 00:16:27 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/js/google_analytics.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-20 00:16:32 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/js/bootstrap.min.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-20 00:16:32 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /housebudget2.2/housebudget2_sagyo/js/google_analytics.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/housebudget2.2/housebudget2_sagyo/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}

@@ -2,9 +2,9 @@
 <div class="row">
 	<ul class="nav nav-tabs nav-justified">
     <li><?php echo $this->Html->link(__('HOME'),array('controller' => 'Users', 'action' => 'index'));?></li>
-		<li><a href="pay_index.php" >支出管理</a></li>
-		<li><?php echo $this->Html->link(__('収入一覧'), array('controller'=>'Incomes', 'action'=>'index'))?></li>
-		<li><a href="transfer_index.php" >口座間移動</a></li>
+		<li><?php echo $this->Html->link(__('支出管理'), array('controller'=>'Pays', 'action'=>'index'))?></li>
+		<li><?php echo $this->Html->link(__('収入管理'), array('controller'=>'Incomes', 'action'=>'index'))?></li>
+		<li><?php echo $this->Html->link(__('資金移動管理'), array('controller'=>'Transfers', 'action'=>'index'))?></li>
 		<li><a href="account_index.php" >口座残高更新</a></li>
 		<li class="dropdown">
 			<a href="#" class="dropdown-toggle" data-toggle="dropdown">設定 <span class="caret"></span></a>

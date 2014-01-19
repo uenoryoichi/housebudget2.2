@@ -1,9 +1,8 @@
 <?php 
 
-class Income extends AppModel
+class Pay extends AppModel
 {
-    public $name ='Income';
-    public $belongsTo =array('UserAccount','User','IncomeSpecification');
+    public $belongsTo =array('UserAccount','User','PaySpecification');
     public $validate = array(
         'user_id' => array(
             'rule' => 'numeric'
@@ -26,35 +25,35 @@ class Income extends AppModel
         /*
         'memo'=>array(
             'rule'=>array(
-                'maxLength',255
+                'maxLength', 255
             )
         ),
          */
         'user_account_id'=>array(
             'rule'=>'numeric'
         ),
-        'income_specification_id'=>array(
+        'pay_specification_id'=>array(
             'rule'=>'numeric'
         )
     );
 
-    public function incomeThisMonth($income_this_month)
+    public function payThisMonth($pay_this_month)
     {
-        $income_this_month = NULL;
+        $pay_this_month = NULL;
         $year = date('Y');
         $month = date('m');
 
         $params = array(
             'conditions'=>array(
-                'Income.user_id' => AuthComponent::user('id'),
-                "YEAR(Income.date) = $year",
-                "MONTH(Income.date) = $month"
+                'Pay.user_id' => AuthComponent::user('id'),
+                "YEAR(Pay.date) = $year",
+                "MONTH(Pay.date) = $month"
             ),
-            'fields' => array('sum(Income.amount)'),
-            'group' => array('Income.user_id')
+            'fields' => array('sum(Pay.amount)'),
+            'group' => array('Pay.user_id')
         ); 
-        $income_this_month = $this->find('first', $params);
+        $pay_this_month = $this->find('first', $params);
         
-        return $income_this_month;
+        return $pay_this_month;
     }    
 }

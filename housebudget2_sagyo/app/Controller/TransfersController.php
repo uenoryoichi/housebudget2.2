@@ -1,10 +1,10 @@
 <?php 
 
-class IncomesController extends AppController
+class TransfersController extends AppController
 {
     public $components = array('Security','Auth');
     public $helper = array('Html','Form');
-    public $uses=array('Income','UserAccount','User','IncomeSpecification');
+    public $uses=array('Transfer','UserAccount','User');
     
    
     
@@ -18,7 +18,7 @@ class IncomesController extends AppController
     public function add()
     {
         if($this->request->is('post')){
-            if ($this->Income->save($this->request->data)){
+            if ($this->Transfer->save($this->request->data)){
                 $this->Session->setFlash('Success!');
                 $this->redirect('index');
             }else {
@@ -39,9 +39,6 @@ class IncomesController extends AppController
  */
     private function __optionSet()
     {        
-        //分類の選択肢
-        $this->set('income_specification_option',$this->IncomeSpecification->select_option('income_specification_option'));
-
         //口座の選択肢
         $this->set('user_account_option',$this->UserAccount->select_option('user_account_option'));		
     }
@@ -55,22 +52,26 @@ class IncomesController extends AppController
             'limit' =>30,
             'recursive'=>2
         );
-        $this->set('incomes', $this->Income->find('all',$params));
+        $this->set('transfers', $this->Transfer->find('all',$params));
         $this->__optionSet();
 
-        $this->set('title_for_layout','収入一覧');
+        $this->set('title_for_layout','資金移動一覧');
     }
 
 
 
     public function edit($id=null)
     {
-        $this->Income->id=$id;
+        $this->Transfer->id=$id;
         if ($this->request->is('post')) {
             //元の情報
-            $this->set('inputed', $this->Income->find('first', array('conditions'=> array('Income.id'=>$this->request->data['Income']['id']))));
+            $this->set('inputed', $this->Transfer->find('first', array(
+                'conditions' => array(
+                    'Transfer.id' => $this->request->data['Transfer']['id']
+                )
+            )));
             $this->__optionSet();
-            $this->set('title_for_layout','収入情報修正');
+            $this->set('title_for_layout','資金移動情報修正');
 
         }else {
             $this->Session->setFlash('failed!');
@@ -82,9 +83,9 @@ class IncomesController extends AppController
 
     public function edit_action($id=null)
     {
-        $this->Income->id=$id;
+        $this->Transfer->id=$id;
         if ($this->request->is('post')) {
-            if ($this->Income->save($this->request->data)) {
+            if ($this->Transfer->save($this->request->data)) {
                 $this->Session->setFlash('success!');
                 $this->redirect('index');
             }else {
@@ -105,7 +106,7 @@ class IncomesController extends AppController
             throw new MethodNotAllowedException();
         }
         if ($this->request->is('post')) {
-            if ($this->Income->delete($this->Income->delete($this->request->data['Income']['id']))) {
+            if ($this->Transfer->delete($this->Transfer->delete($this->request->data['Transfer']['id']))) {
                 $this->Session->setFlash('Deleted!');
                 $this->redirect('index');
             }else{

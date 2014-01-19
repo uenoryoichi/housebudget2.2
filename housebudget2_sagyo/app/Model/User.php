@@ -9,6 +9,9 @@ class User extends AppModel
 	
 	
     public $validate = array(
+        'id' => array(
+            'rule' => 'numeric'
+        ),
         'username'=>array(
         	'rule'=>'alphaNumeric',
             'message'=>'英数字数字を入力してください'
